@@ -1,5 +1,10 @@
 # Data-Warehousing-and-Business-Intelligence-Project - Sales - Data Mart & Sales Analysis
 
+## Basic Info
+* Data Mart:
+* Full Load:
+* Incemental Load:
+
 ## Project Overview
 *	1-Developed a data warehouse, pipelining data from diverse sources such as CSV, and SQL Server using SQL Server Integration Services (SSIS).
 *	2-Designed star schema dimensional model on the data warehouse, loading facts and dimensions (Data Modeling).
