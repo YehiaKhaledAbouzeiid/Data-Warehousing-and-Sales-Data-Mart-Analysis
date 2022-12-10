@@ -7,6 +7,7 @@
 *	4-Built Visual dashboards and improved Sales report for sales managers using PowerBI.
 
 ## The Business Request 
+![Capture] (bussines request)
 *The Business request for this project was an executive sales report for sales managers. 
 Based on the proposition made by the business, 
 the following user stories were defined to fulfill delivery 
