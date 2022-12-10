@@ -85,8 +85,11 @@
 ### 1- Data Model
 
 <B>Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI after exporting the DWH into CSV files.</B>
-<B>The queries used to extract data into CSV files are in the folder [04.1-To extract data to CSV Files]</B>
+
+<B>The queries used to extract data into CSV files are in the folder [04.1-To extract data to CSV Files].</B>
+
 <B>This data model also shows how FACT_Budget has been connected to FACT_InternetSales and other necessary DIM tables.</B>
+
 ![04 4-Moadel Tables](https://user-images.githubusercontent.com/114536072/206843284-0599903c-c61d-4b6a-be99-b012fe096e17.png)
 
 ### 2- Sales Management Dashboard
