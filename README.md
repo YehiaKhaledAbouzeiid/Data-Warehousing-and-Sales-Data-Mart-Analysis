@@ -53,11 +53,24 @@
   - fact_sales  
 
 ## Project Steps
-*	1- Developing a Data Warehouse
-* Creating the database [EO_AdventureWorksDW2019] by creating the FACT TABLE then creating the DIMENSIONS
+###	1- Developing a Data Warehouse
+![dim product](https://user-images.githubusercontent.com/114536072/206842168-53207cc8-b028-4d00-b660-3ac41ec23542.png)
+- Creating the database [EO_AdventureWorksDW2019] by creating the FACT TABLE then creating the DIMENSIONS
+- FACT TABLE and DIMENSIONS Querries are found on the folder [01-Developed a DWH]
 
+###	2- Star Schema (Data Modeling)
+![02-Data Modeling Star Schema](https://user-images.githubusercontent.com/114536072/206842240-ebd27f2e-f6c5-44fe-9639-5ea1aadc089d.png)
 
+###	3- Implementing ETL
+- owly Changing Dimension (SCD)
+![03 1-Slowly Changing Dimension (SCD)](https://user-images.githubusercontent.com/114536072/206842283-ef3e8641-d906-47f3-9611-74156df2712d.png)
 
-*	2-
-*	3-
-*	4-
+- ull Load
+![03 2-Full Load](https://user-images.githubusercontent.com/114536072/206842297-3f10a6dd-decf-4369-9f84-e35f76958535.png)
+
+- remental Load
+![03 3-Incremental Load](https://user-images.githubusercontent.com/114536072/206842315-1e498732-4073-4b10-951d-eb2bfa924782.png)
+
+![03 3 01-Incremental Load](https://user-images.githubusercontent.com/114536072/206842327-cf7261a0-fd54-4a80-b1cb-704f5968b3bc.png)
+
+###	4-
