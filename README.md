@@ -13,10 +13,10 @@
 
 ## The Business Request 
 * ![04 1-Business Request - Mail from Steven](https://user-images.githubusercontent.com/114536072/206841689-990dec5e-f6c8-4fa4-9426-7d2791fecd0d.png)
-*The Business request for this project was an executive sales report for sales managers. 
-Based on the proposition made by the business, 
-the following user stories were defined to fulfill delivery 
-and ensure that acceptance criteria were maintained throughout the project.*
+* The Business request for this project was an executive sales report for sales managers. 
+  Based on the proposition made by the business, 
+  the following user stories were defined to fulfill delivery 
+  and ensure that acceptance criteria were maintained throughout the project.*
 
 ## Business Demand Overview:
 * 	Reporter: Steven – Sales Manager
@@ -25,7 +25,7 @@ and ensure that acceptance criteria were maintained throughout the project.*
 * 	Other Relevant Info: Budgets have been delivered in Excel for 2021
 
 ## User Stories:
-![Capture] (usercase)
+* ![04 2-Usercase](https://user-images.githubusercontent.com/114536072/206841719-8338ebed-28ef-4715-9fa1-b854c5b5da0d.png)
 
 ## Data Sources
 ### AdventureWorks2019 (OLTP) from Microsoft https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
@@ -54,6 +54,10 @@ and ensure that acceptance criteria were maintained throughout the project.*
 
 ## Project Steps
 *	1- Developing a Data Warehouse
+
+
+
+
 *	2-
 *	3-
 *	4-
