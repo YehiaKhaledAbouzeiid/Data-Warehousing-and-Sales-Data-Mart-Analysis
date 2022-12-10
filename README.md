@@ -29,8 +29,6 @@ and ensure that acceptance criteria were maintained throughout the project.*
   - SalesTerritory
   - SalesOrderHeader  
   - SalesOrderDetail
-  - PersonPhone
-  - BusinessEntityAddress
   - Person
   - ProductModel
   - ProductModelProductDescriptionCulture
@@ -38,7 +36,8 @@ and ensure that acceptance criteria were maintained throughout the project.*
   - Production
   - ProductSubcategory
 
-- ### EO_AdventureWorksDW2019 (DWH)
+### EO_AdventureWorksDW2019 (DWH)
+
   - dim_customer
   - dim_date  
   - dim_territory
