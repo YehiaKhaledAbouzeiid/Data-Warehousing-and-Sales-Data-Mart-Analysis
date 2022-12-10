@@ -6,4 +6,7 @@
 •	Implemented OLE DB Source, Data Conversion, Slowly Changing Dimensions and Derived Column.
 •	Built Visual dashboards and improved Sales report for sales managers using PowerBI.
 
-The business request for this project was an executive sales report for sales managers. Based on the proposition made by the business, the following user stories were defined to fulfill delivery and ensure that acceptance criteria were maintained throughout the project.
+The business request for this project was an executive sales report for sales managers. 
+Based on the proposition made by the business, 
+the following user stories were defined to fulfill delivery 
+and ensure that acceptance criteria were maintained throughout the project.
