@@ -51,3 +51,9 @@ and ensure that acceptance criteria were maintained throughout the project.*
   - lookup_country
   - meta_control_table
   - fact_sales  
+
+## Project Steps
+*	1- Developing a Data Warehouse
+*	2-
+*	3-
+*	4-
