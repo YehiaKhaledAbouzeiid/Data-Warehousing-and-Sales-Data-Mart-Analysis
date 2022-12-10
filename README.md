@@ -53,24 +53,45 @@
   - fact_sales  
 
 ## Project Steps
-###	1- Developing a Data Warehouse
-![dim product](https://user-images.githubusercontent.com/114536072/206842168-53207cc8-b028-4d00-b660-3ac41ec23542.png)
-- Creating the database [EO_AdventureWorksDW2019] by creating the FACT TABLE then creating the DIMENSIONS
-- FACT TABLE and DIMENSIONS Querries are found on the folder [01-Developed a DWH]
+##	1- Developing a Data Warehouse
 
-###	2- Star Schema (Data Modeling)
+1- <B>Creating the database [EO_AdventureWorksDW2019] by creating the FACT TABLE then creating the DIMENSIONS</B>
+
+2- <B>The FACT TABLE and DIMENSIONS Querries are found on the folder [01-Developed a DWH]</B>
+
+![dim product](https://user-images.githubusercontent.com/114536072/206842168-53207cc8-b028-4d00-b660-3ac41ec23542.png)
+
+##	2- Star Schema (Data Modeling)
+
 ![02-Data Modeling Star Schema](https://user-images.githubusercontent.com/114536072/206842240-ebd27f2e-f6c5-44fe-9639-5ea1aadc089d.png)
 
-###	3- Implementing ETL
-- owly Changing Dimension (SCD)
+##	3- Implementing ETL
+1- <B>Slowly Changing Dimension (SCD)</B>
 ![03 1-Slowly Changing Dimension (SCD)](https://user-images.githubusercontent.com/114536072/206842283-ef3e8641-d906-47f3-9611-74156df2712d.png)
 
-- ull Load
+
+2- <B>Full load </B>
+
 ![03 2-Full Load](https://user-images.githubusercontent.com/114536072/206842297-3f10a6dd-decf-4369-9f84-e35f76958535.png)
 
-- remental Load
+3- <B>Incremental load</B>
+
 ![03 3-Incremental Load](https://user-images.githubusercontent.com/114536072/206842315-1e498732-4073-4b10-951d-eb2bfa924782.png)
 
 ![03 3 01-Incremental Load](https://user-images.githubusercontent.com/114536072/206842327-cf7261a0-fd54-4a80-b1cb-704f5968b3bc.png)
 
-###	4-
+##	4- Building Visual dashboards
+
+### 1- Data Model
+
+<B>Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.</B>
+<B>This data model also shows how FACT_Budget has been connected to FACT_InternetSales and other necessary DIM tables.</B>
+![04 4-Moadel Tables](https://user-images.githubusercontent.com/114536072/206843284-0599903c-c61d-4b6a-be99-b012fe096e17.png)
+
+### 2- Sales Management Dashboard
+
+<B>The finished sales management dashboard with one page works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customer, and per product.</B>
+
+<B>Click the picture to open the dashboard and try it out!</B>
+
+![04 5-Sales Overview](https://user-images.githubusercontent.com/114536072/206843418-556c0316-c9aa-4613-9713-1abd6f85ac1f.jpg)
