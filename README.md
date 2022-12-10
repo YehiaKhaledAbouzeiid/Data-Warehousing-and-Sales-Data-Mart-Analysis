@@ -19,3 +19,30 @@ and ensure that acceptance criteria were maintained throughout the project.*
 * 	Other Relevant Info: Budgets have been delivered in Excel for 2021
 
 ## User Stories:
+![Capture] (usercase)
+
+## Data Sources
+### AdventureWorks2019 (OLTP) from Microsoft https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+
+  - Customer
+  - Product
+  - SalesTerritory
+  - SalesOrderHeader  
+  - SalesOrderDetail
+  - PersonPhone
+  - BusinessEntityAddress
+  - Person
+  - ProductModel
+  - ProductModelProductDescriptionCulture
+  - ProductDescription
+  - Production
+  - ProductSubcategory
+
+- ### EO_AdventureWorksDW2019 (DWH)
+  - dim_customer
+  - dim_date  
+  - dim_territory
+  - dim_product 
+  - lookup_country
+  - meta_control_table
+  - fact_sales  
