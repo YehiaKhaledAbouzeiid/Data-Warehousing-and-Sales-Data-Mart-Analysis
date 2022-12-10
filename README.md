@@ -1,9 +1,9 @@
 # Data-Warehousing-and-Business-Intelligence-Project - Sales - Data Mart & Sales Analysis
 
-## Basic Info
-* Data Mart:
-* Full Load:
-* Incemental Load:
+## Basic Information
+* Data Mart: A Data Mart is a condensed version of Data Warehouse and is designed for use by a specific department
+* Full Load: Full Load in ETL is loading ALL the data from the source to the destination. A target table is truncated before loading everything from the source.
+* Incemental Load: A selective method of moving data from one system to another. The incremental load model will attempt to compare the incoming data from the source system with the existing data present in the destination. 
 
 ## Project Overview
 *	1-Developed a data warehouse, pipelining data from SQL Server using SQL Server Integration Services (SSIS).
@@ -67,6 +67,7 @@
 
 ##	3- Implementing ETL
 1- <B>Slowly Changing Dimension (SCD)</B>
+
 ![03 1-Slowly Changing Dimension (SCD)](https://user-images.githubusercontent.com/114536072/206842283-ef3e8641-d906-47f3-9611-74156df2712d.png)
 
 
