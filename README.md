@@ -3,7 +3,7 @@
 ## Project Overview
 *	1-Developed a data warehouse, pipelining data from diverse sources such as CSV, and SQL Server using SQL Server Integration Services (SSIS).
 *	2-Designed star schema dimensional model on the data warehouse, loading facts and dimensions (Data Modeling).
-*	3-Implemented OLE DB Source, Data Conversion, Slowly Changing Dimensions and Derived Column.
+*	3-Implemented OLE DB Source, Data Conversion, Slowly Changing Dimensions and Derived Column Full load and Incremental load.
 *	4-Built Visual dashboards and improved Sales report for sales managers using PowerBI.
 
 ## The Business Request 
