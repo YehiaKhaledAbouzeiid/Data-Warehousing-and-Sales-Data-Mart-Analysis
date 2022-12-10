@@ -92,6 +92,6 @@
 
 <B>The finished sales management dashboard with one page works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customer, and per product.</B>
 
-<B>Click the picture to open the dashboard and try it out!</B>
+<B>You can check the dashboard and try it out!</B>(https://app.powerbi.com/groups/me/reports/7251820f-0346-4bdc-8d17-ed56e29fbeb5/ReportSection)
 
 ![04 5-Sales Overview](https://user-images.githubusercontent.com/114536072/206843418-556c0316-c9aa-4613-9713-1abd6f85ac1f.jpg)
