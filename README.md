@@ -12,7 +12,7 @@
 *	4-Built Visual dashboards and improved Sales report for sales managers using PowerBI.
 
 ## The Business Request 
-* ![Capture] (https://raw.githubusercontent.com/YehiaKhaledAbouzeiid/Data-Warehousing-and-Business-Intelligence-Project-Sales-Data-Mart-Sales-Analysis/main/04.1-Business%20Request%20-%20Mail%20from%20Steven.png)
+* ![Capture] (04.1-Business Request - Mail from Steven.png)
 *The Business request for this project was an executive sales report for sales managers. 
 Based on the proposition made by the business, 
 the following user stories were defined to fulfill delivery 
