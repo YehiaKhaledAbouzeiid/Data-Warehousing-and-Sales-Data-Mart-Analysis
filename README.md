@@ -12,7 +12,7 @@
 *	4-Built Visual dashboards and improved Sales report for sales managers using PowerBI.
 
 ## The Business Request 
-* ![04 1-Business Request - Mail from Steven](https://user-images.githubusercontent.com/114536072/206841689-990dec5e-f6c8-4fa4-9426-7d2791fecd0d.png)
+![04 1-Business Request - Mail from Steven](https://user-images.githubusercontent.com/114536072/206841689-990dec5e-f6c8-4fa4-9426-7d2791fecd0d.png)
 * The Business request for this project was an executive sales report for sales managers. 
   Based on the proposition made by the business, 
   the following user stories were defined to fulfill delivery 
