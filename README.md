@@ -1,4 +1,4 @@
-# Data-Warehousing-and-Business-Intelligence-Project - Sales - Data Mart & Sales Analysis
+# Data-Warehousing-and-Business-Intelligence-Project-Sales-Data-Mart-Analysis
 
 ## Basic Information
 * Data Mart: A Data Mart is a condensed version of Data Warehouse and is designed for use by a specific department
